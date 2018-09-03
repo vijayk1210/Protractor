@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jasmine Allure Plugin
 
 A plugin to generate an Allure report out of Jasmine tests.
@@ -73,3 +74,6 @@ Note `done` callback!
 
 See the [system tests](test/system) to quickly check how the reporter works in real life:
 `node_modules/protractor/bin/protractor ./test/system/conf.js`
+=======
+# Protractor
+>>>>>>> 6a96b854d6aa05ff075a963c54c2ff9da853ec48
